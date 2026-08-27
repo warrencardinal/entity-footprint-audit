@@ -1,0 +1,4 @@
+platform,input_url,status,final_url,page_title,canonical_url,name_found,domain_found,indexable,outbound_link,result,notes
+LinkedIn,https://www.linkedin.com/in/cardinal/,200,https://www.linkedin.com/in/cardinal/,Warren Cardinal | LinkedIn,https://www.linkedin.com/in/cardinal/,yes,yes,yes,yes,GOOD,
+ORCID,https://orcid.org/0000-0003-0220-0463,200,https://orcid.org/0000-0003-0220-0463,Warren Cardinal (0000-0003-0220-0463),https://orcid.org/0000-0003-0220-0463,yes,yes,yes,yes,GOOD,
+YouTube,https://www.youtube.com/@WarrenCardinal,200,https://www.youtube.com/@WarrenCardinal,Warren Cardinal - YouTube,https://www.youtube.com/@WarrenCardinal,yes,no,yes,no,FIX,Example only - live output may differ
